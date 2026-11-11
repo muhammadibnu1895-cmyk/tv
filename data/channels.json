@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T10:30:00Z",
-  "total": 3022,
+  "generatedAt": "2026-11-11T19:34:48Z",
+  "total": 3235,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -24177,7 +24177,1728 @@
       "group": "Weather",
       "logo": "https://i.imgur.com/GTxN2nH.png",
       "url": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "INEWS+",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://live.rctiplus.id/rctiplus/inews_720p.m3u8"
+    },
+    {
+      "name": "GTV (Indonesia) HD (1080p)",
+      "country": "Indonesia",
+      "tvgId": "GTV.id@HD",
+      "group": "General",
+      "logo": "https://i.imgur.com/jjuKnYs.png",
+      "url": "https://live.rctiplus.id/rctiplus/gtv_720p.m3u8"
+    },
+    {
+      "name": "SCTV",
+      "country": "Indonesia",
+      "tvgId": "SCTV.id@SD",
+      "group": "General",
+      "logo": "https://i.imgur.com/EMmOvnQ.png",
+      "url": "http://id1.indostreamingtv.com/live/sctv/index.m3u8"
+    },
+    {
+      "name": "Metro TV (Indonesia)",
+      "country": "Indonesia",
+      "tvgId": "MetroTV.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/QnU70NI.png",
+      "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8"
+    },
+    {
+      "name": "NET TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://45.126.83.51/qwr9ew/s/s08/01.m3u8"
+    },
+    {
+      "name": "NET TV HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://id2.indostreamingtv.com/live/nettv/index.m3u8"
+    },
+    {
+      "name": "CNN Indonesia",
+      "country": "Indonesia",
+      "tvgId": "CNNIndonesia.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/l0JyOrm.png",
+      "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+    },
+    {
+      "name": "CNBC Indonesia",
+      "country": "Indonesia",
+      "tvgId": "CNBCIndonesia.id@SD",
+      "group": "Business",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",
+      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+    },
+    {
+      "name": "ANTV (Indonesia) (720p)",
+      "country": "Indonesia",
+      "tvgId": "ANTV.id@SD",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
+      "url": "http://id2.indostreamingtv.com/live/antv/index.m3u8"
+    },
+    {
+      "name": "Indosiar HD (1080p)",
+      "country": "Indonesia",
+      "tvgId": "Indosiar.id@HD",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
+      "url": "http://id1.indostreamingtv.com/live/indosiar/index.m3u8"
+    },
+    {
+      "name": "TRANS 7",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8"
+    },
+    {
+      "name": "tvOne [Geo-blocked]",
+      "country": "Indonesia",
+      "tvgId": "tvOne.id@SD",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",
+      "url": "http://id1.indostreamingtv.com/live/tv444/index.m3u8"
+    },
+    {
+      "name": "TRANS TV +",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://id2.indostreamingtv.com/live/tv33/index.m3u8"
+    },
+    {
+      "name": "TRANS TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8"
+    },
+    {
+      "name": "DAAI TV",
+      "country": "Indonesia",
+      "tvgId": "DAAITV.id@SD",
+      "group": "Religious",
+      "logo": "https://i.imgur.com/YC7JCHo.png",
+      "url": "http://210.210.155.35/qwr9ew/s/s13/01.m3u8"
+    },
+    {
+      "name": "BeritaSatu (1080p)",
+      "country": "Indonesia",
+      "tvgId": "BeritaSatu.id@SD",
+      "group": "News",
+      "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
+      "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    },
+    {
+      "name": "RRI Net (1080p)",
+      "country": "Indonesia",
+      "tvgId": "RRINet.id@SD",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png",
+      "url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+    },
+    {
+      "name": "RTV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/qwr9ew/s/s12/index1.m3u8"
+    },
+    {
+      "name": "TVKU (720p)",
+      "country": "Indonesia",
+      "tvgId": "TVKU.id@SD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/BAklJGy.png",
+      "url": "http://103.30.1.14:8080/hls/live.m3u8"
+    },
+    {
+      "name": "DANGDUT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8"
+    },
+    {
+      "name": "JGO",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8"
+    },
+    {
+      "name": "MNCTV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "LOKAL",
+      "logo": "",
+      "url": "http://id6.indostreamingtv.com/live/mnctv/index.m3u8"
+    },
+    {
+      "name": "GTV (Indonesia) HD (1080p)",
+      "country": "Indonesia",
+      "tvgId": "GTV.id@HD",
+      "group": "General",
+      "logo": "https://i.imgur.com/jjuKnYs.png",
+      "url": "http://id6.indostreamingtv.com/live/tv1/index.m3u8"
+    },
+    {
+      "name": "RCTI HD (1080p)",
+      "country": "Indonesia",
+      "tvgId": "RCTI.id@HD",
+      "group": "General",
+      "logo": "https://i.imgur.com/iLFx8ia.png",
+      "url": "http://id6.indostreamingtv.com/live/rcti/index.m3u8"
+    },
+    {
+      "name": "TRANS7",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "LOKAL",
+      "logo": "",
+      "url": "http://id2.indostreamingtv.com/live/trans7/index.m3u8"
+    },
+    {
+      "name": "tvOne [Geo-blocked]",
+      "country": "Indonesia",
+      "tvgId": "tvOne.id@SD",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",
+      "url": "https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8"
+    },
+    {
+      "name": "Metro TV (Indonesia)",
+      "country": "Indonesia",
+      "tvgId": "MetroTV.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/QnU70NI.png",
+      "url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8"
+    },
+    {
+      "name": "INEWSTV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "LOKAL",
+      "logo": "",
+      "url": "https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8"
+    },
+    {
+      "name": "CNN Indonesia",
+      "country": "Indonesia",
+      "tvgId": "CNNIndonesia.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/l0JyOrm.png",
+      "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8"
+    },
+    {
+      "name": "SCTV",
+      "country": "Indonesia",
+      "tvgId": "SCTV.id@SD",
+      "group": "General",
+      "logo": "https://i.imgur.com/EMmOvnQ.png",
+      "url": "https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8"
+    },
+    {
+      "name": "MNCSPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "LOKAL",
+      "logo": "",
+      "url": "https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8"
+    },
+    {
+      "name": "IDXTV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "LOKAL",
+      "logo": "",
+      "url": "https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8"
+    },
+    {
+      "name": "JTV (720p)",
+      "country": "Indonesia",
+      "tvgId": "JTV.id@SD",
+      "group": "General",
+      "logo": "https://i.imgur.com/mIDWIQk.png",
+      "url": "https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8"
+    },
+    {
+      "name": "DISNEY JUNIOR",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8"
+    },
+    {
+      "name": "DUCK TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8"
+    },
+    {
+      "name": "EBS TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8"
+    },
+    {
+      "name": "MYKIDS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
+    },
+    {
+      "name": "ANIMAX",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "http://210.210.155.35/dr9445/h/h144/index2.m3u8"
+    },
+    {
+      "name": "MIAOMI",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "KID",
+      "logo": "",
+      "url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8"
+    },
+    {
+      "name": "My Cinema [Geo-blocked]",
+      "country": "Indonesia",
+      "tvgId": "MyCinema.id@SD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/BTmcTQO.png",
+      "url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
+    },
+    {
+      "name": "RAY MOVIE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "MOVIE STREAMING",
+      "logo": "",
+      "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
+    },
+    {
+      "name": "CALESTIAL MOVIE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "MOVIE STREAMING",
+      "logo": "",
+      "url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+    },
+    {
+      "name": "NET",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8"
+    },
+    {
+      "name": "ANTV (Indonesia) (720p)",
+      "country": "Indonesia",
+      "tvgId": "ANTV.id@SD",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
+      "url": "http://210.210.155.35/qwr9ew/s/s07/index1.m3u8"
+    },
+    {
+      "name": "Kompas TV [Geo-blocked]",
+      "country": "Indonesia",
+      "tvgId": "KompasTV.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/bD6UHeZ.png",
+      "url": "http://210.210.155.35/qwr9ew/s/s09/index1.m3u8"
+    },
+    {
+      "name": "TRANSVISION",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h234/index2.m3u8"
+    },
+    {
+      "name": "BeritaSatu (1080p)",
+      "country": "Indonesia",
+      "tvgId": "BeritaSatu.id@SD",
+      "group": "News",
+      "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
+      "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8"
+    },
+    {
+      "name": "HELLO TV HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8"
+    },
+    {
+      "name": "SONY CHANEL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h142/01.m3u8"
+    },
+    {
+      "name": "CINEMA WORD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    },
+    {
+      "name": "WOWOW MOVIES",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279"
+    },
+    {
+      "name": "FOX MOVIES",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8"
+    },
+    {
+      "name": "FOX MOVIES PREMIUM",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8"
+    },
+    {
+      "name": "FOX MOVIES COMEDY",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8"
+    },
+    {
+      "name": "HBO 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8"
+    },
+    {
+      "name": "SHOWTIME HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/7/live.m3u8"
+    },
+    {
+      "name": "Sony One HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h13/index.m3u8"
+    },
+    {
+      "name": "SBS IN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h28/index2.m3u8"
+    },
+    {
+      "name": "SBS IN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h28/index1.m3u8"
+    },
+    {
+      "name": "K+",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://rr.dens.tv/h/h08/index2.m3u8"
+    },
+    {
+      "name": "KBS WORLD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8"
+    },
+    {
+      "name": "ASTRO AWANI",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8"
+    },
+    {
+      "name": "ASTRO GO SHOP",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8"
+    },
+    {
+      "name": "TV IKIM",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.vediostream.com/abr/tvikim/playlist.m3u8"
+    },
+    {
+      "name": "Itali SPORTS HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8"
+    },
+    {
+      "name": "SENTANA SPORT+",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott-cdn.ucom.am/s82/03.m3u8"
+    },
+    {
+      "name": "SENTANA SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott-cdn.ucom.am/s81/03.m3u8"
+    },
+    {
+      "name": "SPORTSMAX",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8"
+    },
+    {
+      "name": "ESPN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/6/live.m3u8"
+    },
+    {
+      "name": "ABU DHABI SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8"
+    },
+    {
+      "name": "ABU DHABI SPORT 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8"
+    },
+    {
+      "name": "Stadium Sports Network",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8"
+    },
+    {
+      "name": "TVA SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8"
+    },
+    {
+      "name": "X SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://95.67.103.251/hls/xsport_ua_hi/index.m3u8"
+    },
+    {
+      "name": "FLOW SPORTS1",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8"
+    },
+    {
+      "name": "FOX SPORT RACING",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8"
+    },
+    {
+      "name": "AD SPORT 1",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"
+    },
+    {
+      "name": "AD SPORT 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8"
+    },
+    {
+      "name": "FOX SPORT 3",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h21/index1.m3u8"
+    },
+    {
+      "name": "ALL SPORTS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8"
+    },
+    {
+      "name": "ASTRO ARENA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8"
+    },
+    {
+      "name": "ATGV 1 SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8"
+    },
+    {
+      "name": "BT SPORT/ESPN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://31.220.0.196:8081/live/ctvb4/playlist.m3u8"
+    },
+    {
+      "name": "FISHING NETWORK",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8"
+    },
+    {
+      "name": "KUWAIT ONE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8"
+    },
+    {
+      "name": "MLB NETWORK",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8"
+    },
+    {
+      "name": "NBA TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://31.220.0.134:8081/live/nba/playlist.m3u8"
+    },
+    {
+      "name": "REAL MADRID TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on"
+    },
+    {
+      "name": "REDBULL TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    },
+    {
+      "name": "SKY SPORT F1",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://31.220.0.134:8081/live/jtvf1/playlist.m3u8"
+    },
+    {
+      "name": "100% Automoto SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+    },
+    {
+      "name": "TVA SPORT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8"
+    },
+    {
+      "name": "BTN SPORTS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8"
+    },
+    {
+      "name": "ESPN 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8"
+    },
+    {
+      "name": "CARTOON NETWORK 1",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8"
+    },
+    {
+      "name": "tvg-logo=\"\"Discovery ID",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/5/500000/live.m3u8"
+    },
+    {
+      "name": "tvg-logo=\"\"Fish Channel",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8"
+    },
+    {
+      "name": "tvg-logo=\"\"Foodie Channel",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8"
+    },
+    {
+      "name": "MAKKAH",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/qwr9ew/s/s28/01.m3u8"
+    },
+    {
+      "name": "MADINAH",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/qwr9ew/s/s27/01.m3u8"
+    },
+    {
+      "name": "Rodja TV (720p)",
+      "country": "Indonesia",
+      "tvgId": "RodjaTV.id@SD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/XwCeHlC.png",
+      "url": "http://rr2.dens.tv/s/s14/index1.m3u8"
+    },
+    {
+      "name": "ASWAJA TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8"
+    },
+    {
+      "name": "WESAL TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8"
+    },
+    {
+      "name": "Surau TV (720p)",
+      "country": "Indonesia",
+      "tvgId": "SurauTV.id@SD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/CKoxcWL.png",
+      "url": "http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8"
+    },
+    {
+      "name": "TAHFIDZ TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
+    },
+    {
+      "name": "TLC",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/2/live.m3u8"
+    },
+    {
+      "name": "HOME&LIVING",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/dr9445/h/h16/index2.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/dr9445/h/h15/index2.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8"
+    },
+    {
+      "name": "FOX",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8"
+    },
+    {
+      "name": "FOX ACTION MOVIES",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8"
+    },
+    {
+      "name": "FOX CRIME HD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8"
+    },
+    {
+      "name": "FOX FAMILIY MOVIES",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/index.m3u8"
+    },
+    {
+      "name": "FOX MOVIES",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8"
+    },
+    {
+      "name": "HISTORY CHANNEL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8"
+    },
+    {
+      "name": "ZEE BIOSKOP",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://rr2.dens.tv/s/s32/index2.m3u8"
+    },
+    {
+      "name": "DA VINCI KIDS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://rr.dens.tv/h/h01/index2.m3u8"
+    },
+    {
+      "name": "eGG NETWORK",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8"
+    },
+    {
+      "name": "Karaoke Channel",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    },
+    {
+      "name": "MiX Music",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8"
+    },
+    {
+      "name": "TMusic",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af"
+    },
+    {
+      "name": "MUSIC CHOICE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"
+    },
+    {
+      "name": "MUSIC TOP",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8"
+    },
+    {
+      "name": "BOX HITS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f"
+    },
+    {
+      "name": "O FHD#EXTINF:0 group-title=\"NEWS\"ABC NEWS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "NEWS",
+      "logo": "",
+      "url": "http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8"
+    },
+    {
+      "name": "ALJAZEERA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8"
+    },
+    {
+      "name": "ARISE NEWS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8"
+    },
+    {
+      "name": "BLOOMBERG 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8"
+    },
+    {
+      "name": "Itali News",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8"
+    },
+    {
+      "name": "DW CHANNEL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on"
+    },
+    {
+      "name": "PALESTINE TODAY",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8"
+    },
+    {
+      "name": "Al Aqsa",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8"
+    },
+    {
+      "name": "SKY NEWS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+    },
+    {
+      "name": "BTV NEWS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/1/live.m3u8"
+    },
+    {
+      "name": "CGTN DOCUMENTARY",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8"
+    },
+    {
+      "name": "DISCOVERY",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/8/2500000/live.m3u8"
+    },
+    {
+      "name": "DISCOVERY SCIENCE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/9/live.m3u8"
+    },
+    {
+      "name": "INVESTIGATION DISCOVERY",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://80.80.160.168/live/5/live.m3u8"
+    },
+    {
+      "name": "Fox Premium Movies",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8"
+    },
+    {
+      "name": "Anime CN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8"
+    },
+    {
+      "name": "Gospel Cartoon",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105"
+    },
+    {
+      "name": "AXN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://nn.geo.joj.sk/hls/wau-360.m3u8"
+    },
+    {
+      "name": "(ID) TVRI NASIONAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI OLAHRAGA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
+    },
+    {
+      "name": "TVRI Aceh (720p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Aceh",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SUMATERA UTARA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SUMATERA BARAT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SUMATERA SELATAN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8"
+    },
+    {
+      "name": "TVRI Riau (720p) [Not 24/7]",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Riau",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8"
+    },
+    {
+      "name": "TVRI Jambi (720p) [Not 24/7]",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Jambi",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8"
+    },
+    {
+      "name": "TVRI Bangka Belitung (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@BangkaBelitung",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8"
+    },
+    {
+      "name": "TVRI Bengkulu (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Bengkulu",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8"
+    },
+    {
+      "name": "TVRI Lampung (720p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Lampung",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI DKI JAKARTA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI JAWA BARAT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI JAWA TENGAH",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI JAWA TIMUR",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8"
+    },
+    {
+      "name": "(ID) YOGYAKARTA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8"
+    },
+    {
+      "name": "TVRI Bali (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Bali",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI NUSA TENGGARA BARAT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI NUSA TENGGARA TIMUR",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI KALIMANTAN BARAT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI KALIMANTAN TENGAH",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI KALIMANTAN TIMUR",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI KALIMANTAN SELATAN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SULAWESI SELATAN",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SULAWESI BARAT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SULAWESI TENGGARA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SULAWESI TENGAH",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8"
+    },
+    {
+      "name": "(ID) TVRI SULAWESI UTARA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8"
+    },
+    {
+      "name": "TVRI Gorontalo (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Gorontalo",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8"
+    },
+    {
+      "name": "TVRI Maluku (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Maluku",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8"
+    },
+    {
+      "name": "TVRI Papua (480p)",
+      "country": "Indonesia",
+      "tvgId": "TVRI.id@Papua",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+      "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8"
+    },
+    {
+      "name": "TVRI - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "ANTV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "TRANS7 - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "METRO TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "INDOSIAR - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "TV ONE - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "SCTV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "TRANS TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "GLOBAL TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "NET TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "RAJAWALI TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "BERITA SATU - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "JAKTV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "DAAI TV - LOCAL",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "AUTO GADGET",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "FOOD TRAVEL - LIFESTYLE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "MNC CHANNEL - ENTERTAINMENT",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "Kompas TV [Geo-blocked]",
+      "country": "Indonesia",
+      "tvgId": "KompasTV.id@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/bD6UHeZ.png",
+      "url": "http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "name": "tc television",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w364231614.m3u8"
+    },
+    {
+      "name": "TELEAMAZONAS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://173.212.247.99/hls/tvec4.m3u8"
+    },
+    {
+      "name": "NAT GEO WILD",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8"
+    },
+    {
+      "name": "HBO 2",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8"
+    },
+    {
+      "name": "IPE",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8"
+    },
+    {
+      "name": "COSMOS",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8"
+    },
+    {
+      "name": "TV PERU",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8"
+    },
+    {
+      "name": "PANAMERICANA",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://cdnhd.iblups.com/hls/ptv2.m3u8"
+    },
+    {
+      "name": "ANTARES TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8"
+    },
+    {
+      "name": "CTC TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8"
+    },
+    {
+      "name": "CULTURA 24",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8"
+    },
+    {
+      "name": "BHTV PERU",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8"
+    },
+    {
+      "name": "CENTRAL TV PERU",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8"
+    },
+    {
+      "name": "LOCOMOTION",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://locomotiontv.com/envivo/loco_channel/stream.m3u8"
+    },
+    {
+      "name": "ADN 40",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master02.m3u8"
+    },
+    {
+      "name": "Teleformula",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8"
+    },
+    {
+      "name": "FOROTV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8"
+    },
+    {
+      "name": "Milenio",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8"
+    },
+    {
+      "name": "Miami TV",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8"
     }
   ],
-  "sourceErrors": []
+  "sourceErrors": [],
+  "discovery": {
+    "maxSourcesPerChannel": 3,
+    "preserved": 3022,
+    "playlistAdded": 0,
+    "apiAdded": 0,
+    "apiEntries": 18493,
+    "gistEntries": 229,
+    "gistAlternativesAdded": 36,
+    "gistNewAdded": 177,
+    "gistAmbiguousSkipped": 2,
+    "skippedByLimit": 3,
+    "skippedCustomHeaders": 0,
+    "channelsWith2Sources": 20,
+    "channelsWith3Sources": 8,
+    "channelsWithAlternatives": 28,
+    "alternativeUrls": 36
+  }
 }
