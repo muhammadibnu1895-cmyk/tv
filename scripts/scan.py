@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""INU TV V3.9.1: bounded IPTV source discovery and rotating ffprobe scan."""
+"""INU TV V3.9.2: bounded IPTV source discovery and rotating ffprobe scan."""
 import argparse
 import concurrent.futures
 import datetime as dt
@@ -17,12 +17,13 @@ DATA = ROOT / 'data'
 DATA.mkdir(exist_ok=True)
 SOURCES = [('Indonesia','id'),('Malaysia','my'),('Singapura','sg'),('Amerika Serikat','us'),('Jepang','jp'),('Korea Selatan','kr'),('Thailand','th'),('Filipina','ph'),('India','in'),('Inggris','uk'),('Australia','au')]
 MAX_SOURCES = 3
+GIST_M3U = "https://gist.githubusercontent.com/ahmadarif/d707ed2a80cc7afd7c7283dbe888e64d/raw"
 
 def now():
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds').replace('+00:00','Z')
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent':'INU-TV-Scanner/3.9.1','Accept':'*/*'})
+    req = urllib.request.Request(url, headers={'User-Agent':'INU-TV-Scanner/3.9.2','Accept':'*/*'})
     with urllib.request.urlopen(req, timeout=25) as res:
         return res.read(12_000_000).decode('utf-8','replace')
 
@@ -38,6 +39,34 @@ def parse(text, country):
                 result.append({**meta,'url':line})
             meta = None
     return result
+
+def normalized_name(value):
+    """Conservative matching: only clear channel-name equivalences."""
+    value = re.sub(r'https?://\S+', '', str(value), flags=re.I)
+    value = re.sub(r'\[[^]]*\]|\([^)]*\)', ' ', value)
+    value = re.sub(r'\b(?:1080p|720p|480p|360p|hd|sd|fhd|tv channel)\b', ' ', value, flags=re.I)
+    value = re.sub(r'[^a-z0-9]+', '', value.lower())
+    aliases = {'metrotv':'metrotv', 'cnntv':'cnnindonesia', 'cnn':'cnnindonesia',
+               'cnbc':'cnbcindonesia', 'tvone':'tvone', 'beritasatu':'beritasatu',
+               'rrinet':'rrinet', 'inewstv':'inews', 'globaltv':'gtv', 'kompastv':'kompastv'}
+    return aliases.get(value,value)
+
+def parse_gist(text):
+    """Read old, sometimes malformed EXTINF entries; only accept direct HTTP(S) HLS."""
+    entries = parse(text, 'Indonesia')
+    cleaned=[]
+    for ch in entries:
+        url=ch['url']
+        # Old playlists contain expiring sessions, static .ts segments and UDP relays.
+        if re.search(r'/session/|[?&](?:token|session|expires|signature|auth)=',url,re.I):
+            continue
+        if not re.search(r'\.m3u8(?:[?#]|$)',url,re.I):
+            continue
+        name=re.sub(r'https?://\S+', '',ch['name'],flags=re.I).strip()
+        name=re.sub(r'^group-title="[^"]*"', '',name,flags=re.I).strip()
+        if not name: continue
+        cleaned.append({**ch,'name':name})
+    return cleaned
 
 def load_json(path, default):
     try:
@@ -137,13 +166,41 @@ def main():
     except Exception as exc:
         source_errors.append('API alternatif: '+str(exc)[:160])
 
+    # Import public Gist candidates without replacing the existing primary URL.
+    # Match by unambiguous normalized name; unmatched channels are kept separately.
+    try:
+        gist_entries=parse_gist(fetch(GIST_M3U))
+        metrics['gist_entries']=len(gist_entries)
+        by_name={}
+        for ch in catalog:
+            key=normalized_name(ch.get('name',''))
+            if key and ch.get('country')=='Indonesia':
+                by_name.setdefault(key,[]).append(ch)
+        for entry in gist_entries:
+            key=normalized_name(entry['name'])
+            matches=by_name.get(key,[])
+            ids={m.get('tvgId','').strip().lower() for m in matches if m.get('tvgId','').strip()}
+            if len(ids)==1:
+                original=next(m for m in matches if m.get('tvgId','').strip().lower() in ids)
+                add({**original,'url':entry['url']},'gist_alternatives_added')
+            elif not matches:
+                # New channels are tagged separately and won't be conflated with old channels.
+                # Name-based cap prevents flooding the catalog with repeated Gist entries.
+                if metrics[f'gist_new_{key}'] < MAX_SOURCES:
+                    if add({**entry,'country':'Gist Import','group':entry.get('group') or 'Imported'},'gist_new_added'):
+                        metrics[f'gist_new_{key}']+=1
+            else:
+                metrics['gist_ambiguous_skipped']+=1
+    except Exception as exc:
+        source_errors.append('Gist M3U: '+str(exc)[:160])
+
     if not catalog:
         raise SystemExit('No playlist data available; refusing to overwrite results')
 
     multi=Counter(ch.get('tvgId','').strip().lower() for ch in catalog if isinstance(ch.get('tvgId'),str) and ch['tvgId'].strip())
     multi2=sum(n==2 for n in multi.values())
     multi3=sum(n==3 for n in multi.values())
-    discovery={'maxSourcesPerChannel':MAX_SOURCES,'preserved':metrics['preserved'],'playlistAdded':metrics['playlist_added'],'apiAdded':metrics['api_added'],'apiEntries':metrics['api_entries'],'skippedByLimit':metrics['limit_skipped'],'skippedCustomHeaders':metrics['header_skipped'],'channelsWith2Sources':multi2,'channelsWith3Sources':multi3,'channelsWithAlternatives':multi2+multi3,'alternativeUrls':sum(n-1 for n in multi.values() if n>1)}
+    discovery={'maxSourcesPerChannel':MAX_SOURCES,'preserved':metrics['preserved'],'playlistAdded':metrics['playlist_added'],'apiAdded':metrics['api_added'],'apiEntries':metrics['api_entries'],'gistEntries':metrics['gist_entries'],'gistAlternativesAdded':metrics['gist_alternatives_added'],'gistNewAdded':metrics['gist_new_added'],'gistAmbiguousSkipped':metrics['gist_ambiguous_skipped'],'skippedByLimit':metrics['limit_skipped'],'skippedCustomHeaders':metrics['header_skipped'],'channelsWith2Sources':multi2,'channelsWith3Sources':multi3,'channelsWithAlternatives':multi2+multi3,'alternativeUrls':sum(n-1 for n in multi.values() if n>1)}
     write_json(DATA/'channels.json',{'generatedAt':now(),'total':len(catalog),'channels':catalog,'sourceErrors':source_errors,'discovery':discovery})
     print('Multi-Source Discovery:',json.dumps(discovery,ensure_ascii=False),flush=True)
     for error in source_errors: print('Source warning:',error,flush=True)
