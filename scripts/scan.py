@@ -54,6 +54,30 @@ def main():
             for ch in parse(fetch(f'https://iptv-org.github.io/iptv/countries/{code}.m3u'),country):
                 if ch['url'] not in seen: seen.add(ch['url']);catalog.append(ch)
         except Exception as e: source_errors.append(f'{country}: {e}')
+    # Add only public IPTV-org API streams for exact tvg-id matches.
+    # Never guess by similar names, and skip streams needing custom HTTP headers.
+    api_added=0
+    try:
+        api=json.loads(fetch('https://iptv-org.github.io/api/streams.json'))
+        known_ids={c.get('tvgId','').lower() for c in catalog if c.get('tvgId')}
+        by_id={}
+        for c in catalog:
+            if c.get('tvgId'): by_id.setdefault(c['tvgId'].lower(),c)
+        source_count={}
+        for c in catalog:
+            if c.get('tvgId'): source_count[c['tvgId'].lower()]=source_count.get(c['tvgId'].lower(),0)+1
+        for entry in api:
+            cid=(entry.get('channel') or '').lower()
+            url=entry.get('url') or ''
+            if (not cid or cid not in known_ids or not re.match(r'^https?://',url,re.I)
+                or url in seen or entry.get('referrer') or entry.get('user_agent')
+                or source_count.get(cid,0)>=3): continue
+            original=by_id[cid]
+            catalog.append({**original,'url':url,'name':original['name']})
+            seen.add(url);source_count[cid]=source_count.get(cid,0)+1;api_added+=1
+    except Exception as exc:
+        source_errors.append('API alternatif: '+str(exc)[:160])
+    print('Alternatif API baru:',api_added,flush=True)
     # Never discard the previous catalog if an upstream source is temporarily unavailable.
     old_catalog=load_json(DATA/'channels.json',{}).get('channels',[])
     for ch in old_catalog:
