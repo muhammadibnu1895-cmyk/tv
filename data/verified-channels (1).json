@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "source": "Admin CSV browser verification; not live uptime",
+  "publishedAt": "2026-11-12T03:32:25.462491+00:00",
+  "results": {
+    "https://afbtv.siar.us/live/afbtv.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:29:58.146Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:29:59.074Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://ikitv.sqn.at:8000/play/a00j/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:29:59.113Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://akativi.siar.us/live/akativi.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:29:59.720Z",
+      "detail": "Frame video bergerak (1920×1080)"
+    },
+    "https://ammedia.siar.us/ammedia/live/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:00.434Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://202.150.161.117:8000/play/AlBahjahTV": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:00.476Z",
+      "detail": "Media error 4"
+    },
+    "https://tv.aliman.id/aliman/live.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:01.486Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:02.236Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://103.58.160.157:8278/720-ANTV/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:02.290Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:05.421Z",
+      "detail": "HLS levelLoadError"
+    },
+    "https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:06.154Z",
+      "detail": "Frame video bergerak (1920×1080)"
+    },
+    "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:06.271Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:06.293Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://202.150.165.66:8088/play/301-AXN/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:06.318Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:06.342Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:06.363Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://banjartv.siar.us/banjartv/live/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:06.650Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:07.553Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:07.595Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:07.975Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:08.003Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:08.026Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:08.048Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:08.651Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://ikitv.sqn.at:8000/play/a01l/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:08.678Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:09.301Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:09.834Z",
+      "detail": "Frame video bergerak (1920×1080)"
+    },
+    "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:10.350Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://stream.carubantv.id/hls/0/stream.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:10.950Z",
+      "detail": "Frame video bergerak (1920×1080)"
+    },
+    "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:10.982Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:11.007Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:11.131Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:11.202Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:11.784Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:11.898Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:12.317Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:12.357Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:12.385Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:12.409Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:12.438Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:13.117Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:13.417Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://tvstreamcast.com/tawaftv.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:13.834Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://e.siar.us/live/dtvi.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:13.977Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://dutatv.siar.us/dutatv/live/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:14.251Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:14.633Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:14.659Z",
+      "detail": "HLS manifestLoadError"
+    },
+    "https://v3.siar.us/ficomchannel/live/playlist.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:14.933Z",
+      "detail": "Frame video bergerak (1280×720)"
+    },
+    "http://seb.sason.top/ptv/ftv.php?id=ms": {
+      "status": "fail",
+      "checkedAt": "2026-11-12T03:30:15.069Z",
+      "detail": "Media error 4"
+    },
+    "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8": {
+      "status": "ok",
+      "checkedAt": "2026-11-12T03:30:15.599Z",
+      "detail": "Frame video bergerak (1280×720)"
+    }
+  }
+}
