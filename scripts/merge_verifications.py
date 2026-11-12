@@ -3,7 +3,7 @@
 import csv, datetime as dt, json, os, pathlib, sys
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 DB=ROOT/'data/verified-channels.json'
-INBOX=ROOT/'data/verification-inbox'
+INBOX=ROOT/'data/verification_uploads'
 MAX_BYTES=2_000_000
 MAX_ROWS=5000
 
