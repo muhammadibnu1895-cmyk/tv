@@ -1,0 +1,101 @@
+channel_key,status,checked_at,detail
+https://afbtv.siar.us/live/afbtv.m3u8,fail,2026-11-12T04:41:13.739Z,HLS manifestLoadError
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8,ok,2026-11-12T04:41:14.458Z,Frame video bergerak (1280×720)
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8,fail,2026-11-12T04:41:14.492Z,HLS manifestLoadError
+https://akativi.siar.us/live/akativi.m3u8,ok,2026-11-12T04:41:14.920Z,Frame video bergerak (1920×1080)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8,ok,2026-11-12T04:41:15.452Z,Frame video bergerak (1280×720)
+http://202.150.161.117:8000/play/AlBahjahTV,fail,2026-11-12T04:41:15.500Z,Media error 4
+https://tv.aliman.id/aliman/live.m3u8,fail,2026-11-12T04:41:16.357Z,HLS manifestLoadError
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8,ok,2026-11-12T04:41:17.169Z,Frame video bergerak (1280×720)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8,fail,2026-11-12T04:41:17.208Z,HLS manifestLoadError
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8,fail,2026-11-12T04:41:20.342Z,HLS levelLoadError
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8,ok,2026-11-12T04:41:20.971Z,Frame video bergerak (1024×576)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8,fail,2026-11-12T04:41:21.061Z,HLS manifestLoadError
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T04:41:21.094Z,HLS manifestLoadError
+http://202.150.165.66:8088/play/301-AXN/index.m3u8,fail,2026-11-12T04:41:21.121Z,HLS manifestLoadError
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T04:41:21.142Z,HLS manifestLoadError
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8,fail,2026-11-12T04:41:21.163Z,HLS manifestLoadError
+https://banjartv.siar.us/banjartv/live/playlist.m3u8,ok,2026-11-12T04:41:21.536Z,Frame video bergerak (1280×720)
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8,ok,2026-11-12T04:41:22.470Z,Frame video bergerak (1280×720)
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T04:41:22.498Z,HLS manifestLoadError
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8,fail,2026-11-12T04:41:22.741Z,HLS manifestLoadError
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8,fail,2026-11-12T04:41:22.776Z,HLS manifestLoadError
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8,fail,2026-11-12T04:41:22.811Z,HLS manifestLoadError
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8,fail,2026-11-12T04:41:22.842Z,HLS manifestLoadError
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8,ok,2026-11-12T04:41:23.553Z,Frame video bergerak (1280×720)
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8,fail,2026-11-12T04:41:23.585Z,HLS manifestLoadError
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8,ok,2026-11-12T04:41:24.219Z,Frame video bergerak (1280×720)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8,ok,2026-11-12T04:41:25.037Z,Frame video bergerak (1920×1080)
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8,fail,2026-11-12T04:41:25.160Z,HLS manifestLoadError
+https://stream.carubantv.id/hls/0/stream.m3u8,ok,2026-11-12T04:41:25.969Z,Frame video bergerak (1920×1080)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8,fail,2026-11-12T04:41:26.004Z,HLS manifestLoadError
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8,fail,2026-11-12T04:41:26.049Z,HLS manifestLoadError
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8,fail,2026-11-12T04:41:26.159Z,HLS manifestLoadError
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8,fail,2026-11-12T04:41:26.252Z,HLS manifestLoadError
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8,ok,2026-11-12T04:41:26.919Z,Frame video bergerak (1280×720)
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8,fail,2026-11-12T04:41:26.962Z,HLS manifestLoadError
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8,ok,2026-11-12T04:41:27.620Z,Frame video bergerak (1280×720)
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8,fail,2026-11-12T04:41:27.650Z,HLS manifestLoadError
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8,fail,2026-11-12T04:41:27.683Z,HLS manifestLoadError
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8,fail,2026-11-12T04:41:27.709Z,HLS manifestLoadError
+https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8,fail,2026-11-12T04:41:27.739Z,HLS manifestLoadError
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8,ok,2026-11-12T04:41:28.535Z,Frame video bergerak (1280×720)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8,ok,2026-11-12T04:41:28.834Z,Frame video bergerak (1280×720)
+https://tvstreamcast.com/tawaftv.m3u8,ok,2026-11-12T04:41:29.268Z,Frame video bergerak (1280×720)
+https://e.siar.us/live/dtvi.m3u8,fail,2026-11-12T04:41:29.323Z,HLS manifestLoadError
+https://dutatv.siar.us/dutatv/live/playlist.m3u8,ok,2026-11-12T04:41:29.686Z,Frame video bergerak (1280×720)
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8,ok,2026-11-12T04:41:30.200Z,Frame video bergerak (1280×720)
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T04:41:30.227Z,HLS manifestLoadError
+https://v3.siar.us/ficomchannel/live/playlist.m3u8,ok,2026-11-12T04:41:30.835Z,Frame video bergerak (1280×720)
+http://seb.sason.top/ptv/ftv.php?id=ms,fail,2026-11-12T04:41:30.982Z,Media error 4
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8,ok,2026-11-12T04:41:31.686Z,Frame video bergerak (1920×1080)
+http://202.150.172.59/GTVHD/index.m3u8,fail,2026-11-12T09:24:23.935Z,HLS manifestLoadError
+https://v3.siar.us/humabetangtv/live/playlist.m3u8,fail,2026-11-12T09:24:24.009Z,HLS manifestLoadError
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8,ok,2026-11-12T09:24:24.948Z,Frame video bergerak (1920×1080)
+https://tvstreamcast.com/indonesiana.m3u8,ok,2026-11-12T09:24:25.431Z,Frame video bergerak (1280×720)
+http://202.150.172.59/Indosiar/index.m3u8,fail,2026-11-12T09:24:25.488Z,HLS manifestLoadError
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8,fail,2026-11-12T09:24:25.529Z,HLS manifestLoadError
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8,ok,2026-11-12T09:24:26.230Z,Frame video bergerak (1280×720)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:26.270Z,HLS manifestLoadError
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8,fail,2026-11-12T09:24:26.300Z,HLS manifestLoadError
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8,fail,2026-11-12T09:24:26.330Z,HLS manifestLoadError
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8,fail,2026-11-12T09:24:26.545Z,HLS manifestLoadError
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.314Z,HLS manifestLoadError
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.338Z,HLS manifestLoadError
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.361Z,HLS manifestLoadError
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.390Z,HLS manifestLoadError
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.423Z,HLS manifestLoadError
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:27.452Z,HLS manifestLoadError
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8,fail,2026-11-12T09:24:27.480Z,HLS manifestLoadError
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8,ok,2026-11-12T09:24:27.862Z,Frame video bergerak (640×360)
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8,fail,2026-11-12T09:24:27.928Z,HLS manifestLoadError
+https://flv.intechmedia.net/live/ch118.m3u8,fail,2026-11-12T09:24:28.100Z,HLS manifestLoadError
+https://lingkartv.my.id/hls/lingkartv.m3u8,fail,2026-11-12T09:24:28.197Z,HLS manifestLoadError
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8,ok,2026-11-12T09:24:29.851Z,Waktu video bergerak (1280×720)
+https://re1.siar.us/madutv/hd720/playlist.m3u8,ok,2026-11-12T09:24:30.261Z,Frame video bergerak (1920×1080)
+http://202.150.172.59/MagnaChannel/index.m3u8,fail,2026-11-12T09:24:30.308Z,HLS manifestLoadError
+https://stream.matrixtv.id/hls/0/stream.m3u8,fail,2026-11-12T09:24:30.367Z,HLS manifestLoadError
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8,fail,2026-11-12T09:24:33.548Z,HLS levelLoadError
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8,fail,2026-11-12T09:24:33.701Z,HLS manifestLoadError
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8,fail,2026-11-12T09:24:43.718Z,Timeout sumber
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8,fail,2026-11-12T09:24:54.791Z,Timeout sumber
+https://mgstv.siar.us/live/mgstv.m3u8,fail,2026-11-12T09:24:55.261Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8,fail,2026-11-12T09:24:55.313Z,HLS manifestLoadError
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8,fail,2026-11-12T09:24:55.941Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://mic.siar.us/mic/live/mic.m3u8,fail,2026-11-12T09:24:56.624Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8,fail,2026-11-12T09:24:56.730Z,HLS manifestLoadError
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8,fail,2026-11-12T09:24:56.779Z,HLS manifestLoadError
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd,fail,2026-11-12T09:24:56.938Z,Media error 4
+https://www.naajiyatv.com/live/livestream.m3u8,fail,2026-11-12T09:24:57.250Z,HLS manifestLoadError
+http://202.150.161.117:8000/play/NabawiTV,fail,2026-11-12T09:24:57.284Z,Media error 4
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8,fail,2026-11-12T09:24:57.952Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8,fail,2026-11-12T09:24:58.191Z,HLS manifestLoadError
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:58.283Z,HLS manifestLoadError
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8,fail,2026-11-12T09:24:59.546Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8,fail,2026-11-12T09:24:59.653Z,HLS manifestLoadError
+https://pujatv.siar.us/live/pujatv.m3u8,fail,2026-11-12T09:25:00.185Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://www.streaming.radartv.co.id/hls/test.m3u8,fail,2026-11-12T09:25:00.908Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8,fail,2026-11-12T09:25:01.266Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
+https://official.rbtvjogja.tv/live/mychannel.m3u8,fail,2026-11-12T09:25:02.780Z,HLS manifestLoadError
+http://202.150.172.59/RCTIHD/index.m3u8,fail,2026-11-12T09:25:02.853Z,HLS manifestLoadError
+https://v10.siar.us/rctv/live/playlist.m3u8,fail,2026-11-12T09:25:03.206Z,The play() request was interrupted because video-only background media was paused to save power. https://goo.gl/LdLk22
