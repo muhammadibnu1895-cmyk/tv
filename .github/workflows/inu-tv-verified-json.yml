@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       csv_file:
-        description: 'CSV filename already uploaded into data/verification-inbox/ (e.g. batch-002.csv)'
+        description: 'CSV filename already uploaded into data/verification-uploads/ (e.g. batch-002.csv)'
         required: true
         type: string
 permissions:
