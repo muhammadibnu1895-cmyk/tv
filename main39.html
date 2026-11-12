@@ -393,11 +393,12 @@ async function loadServerScan(){
 $('importGist').onclick=importGistNow;
 $('clearGist').onclick=()=>{gistImported=[];localStorage.removeItem(GIST_STORAGE);$('gistStatus').textContent='Impor Gist tersimpan telah dihapus.';loadPlaylists()};
 if(gistImported.length)$('gistStatus').textContent='Memulihkan '+gistImported.length+' entri Gist tersimpan di browser...';
+const PM_KEY='inu-v42-sources',PM_LOCAL='inu-v42-local';let pmScanStats={};
 renderCategories();loadPlaylists();loadEPG();setInterval(updateEPG,30000);setInterval(loadServerScan,10*60*1000);setInterval(()=>{if(localStorage.getItem('inu-epg-url'))loadEPG()},12*60*60*1000);
 
 
 // V4.2 playlist manager: local-only, bounded persistence, no background scans.
-const PM_KEY='inu-v42-sources',PM_LOCAL='inu-v42-local';let pmScanStats={};
+// Playlist manager state initialized before startup.
 function pmSafeUrl(u){try{let x=new URL(u);return ['https:','http:'].includes(x.protocol)&&!x.username&&!x.password&&u.length<2048}catch{return false}}
 function pmSources(){let out=[],old=[];try{out=JSON.parse(localStorage.getItem(PM_KEY)||'[]')}catch{};if(!Array.isArray(out))out=[];
  try{old=JSON.parse(localStorage.getItem('inu-sources')||'[]')}catch{};if(!Array.isArray(old))old=[];
