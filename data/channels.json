@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T04:53:50Z",
-  "total": 3297,
+  "generatedAt": "2026-11-12T07:08:03Z",
+  "total": 3300,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26377,13 +26377,37 @@
       "group": "Imported",
       "logo": "",
       "url": "http://rr.dens.tv/h/h05/index2.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://210.210.155.35/uq2663/h/h37/index2.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
-    "preserved": 3235,
-    "playlistAdded": 59,
+    "preserved": 3297,
+    "playlistAdded": 0,
     "apiAdded": 0,
     "apiEntries": 18605,
     "gistEntries": 229,
