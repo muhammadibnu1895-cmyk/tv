@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T19:53:51Z",
-  "total": 3303,
+  "generatedAt": "2026-11-13T06:42:18Z",
+  "total": 3315,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26425,24 +26425,120 @@
       "group": "Imported",
       "logo": "",
       "url": "http://rr.dens.tv/h/h06/index2.m3u8"
+    },
+    {
+      "name": "La Voz de Jesus HD (720p) [Not 24/7]",
+      "country": "Amerika Serikat",
+      "tvgId": "LaVozdeJesusHD.do@HD",
+      "group": "Religious",
+      "logo": "https://gia.tv/streams/pstream/208429.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8"
+    },
+    {
+      "name": "Tom And Jerry (720p) [Not 24/7]",
+      "country": "Amerika Serikat",
+      "tvgId": "TomAndJerry.do@HD",
+      "group": "Kids",
+      "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    },
+    {
+      "name": "Turismo HD (720p) [Not 24/7]",
+      "country": "Amerika Serikat",
+      "tvgId": "TurismoHD.do@HD",
+      "group": "Entertainment",
+      "logo": "https://gia.tv/streams/pptv/208343.jpg",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8"
+    },
+    {
+      "name": "TV-U Yamagata (1080i)",
+      "country": "Jepang",
+      "tvgId": "TVUYamagata.jp@JOWIDTV",
+      "group": "General",
+      "logo": "https://i.imgur.com/9yZe76d.png",
+      "url": "https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8"
+    },
+    {
+      "name": "Boomerang (Thailand)",
+      "country": "Thailand",
+      "tvgId": "Boomerang.th@SD",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "url": "https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8"
+    },
+    {
+      "name": "JK 24x7 News (576p)",
+      "country": "India",
+      "tvgId": "JK24x7News.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+      "url": "https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "name": "Karnataka News Beat (1080p)",
+      "country": "India",
+      "tvgId": "KarnatakaNewsBeat.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8"
+    },
+    {
+      "name": "Non Stop Bharat (576p)",
+      "country": "India",
+      "tvgId": "NonStopBharat.in@SD",
+      "group": "News",
+      "logo": "https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8"
+    },
+    {
+      "name": "TV7 Bharat (1080p)",
+      "country": "India",
+      "tvgId": "TV7Bharat.in@SD",
+      "group": "News",
+      "logo": "https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8"
+    },
+    {
+      "name": "Eurosport 1 UK (1080p)",
+      "country": "Inggris",
+      "tvgId": "Eurosport1.fr@UK",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "url": "http://85.117.37.43/eurosport1/index.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8"
+    },
+    {
+      "name": "Tanpa Nama",
+      "country": "Gist Import",
+      "tvgId": "",
+      "group": "Imported",
+      "logo": "",
+      "url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
-    "preserved": 3300,
-    "playlistAdded": 0,
+    "preserved": 3303,
+    "playlistAdded": 10,
     "apiAdded": 0,
-    "apiEntries": 18605,
+    "apiEntries": 18622,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
-    "gistNewAdded": 3,
+    "gistNewAdded": 2,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 64,
+    "channelsWith2Sources": 68,
     "channelsWith3Sources": 8,
-    "channelsWithAlternatives": 72,
-    "alternativeUrls": 80
+    "channelsWithAlternatives": 76,
+    "alternativeUrls": 84
   }
 }
