@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T19:40:03Z",
-  "total": 3315,
+  "generatedAt": "2026-11-14T06:19:26Z",
+  "total": 3317,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26521,24 +26521,40 @@
       "group": "Imported",
       "logo": "",
       "url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8"
+    },
+    {
+      "name": "B4U Movies (1080p)",
+      "country": "India",
+      "tvgId": "B4UMovies.in@India",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/M9kMFJl.png",
+      "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Zee Bangla HD (720p)",
+      "country": "India",
+      "tvgId": "ZeeBangla.in@HD",
+      "group": "Entertainment",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3315,
-    "playlistAdded": 0,
+    "playlistAdded": 2,
     "apiAdded": 0,
-    "apiEntries": 18622,
+    "apiEntries": 18631,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 68,
+    "channelsWith2Sources": 70,
     "channelsWith3Sources": 8,
-    "channelsWithAlternatives": 76,
-    "alternativeUrls": 84
+    "channelsWithAlternatives": 78,
+    "alternativeUrls": 86
   }
 }
