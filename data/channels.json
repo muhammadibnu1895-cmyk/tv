@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T22:22:42Z",
-  "total": 3317,
+  "generatedAt": "2026-11-15T06:26:33Z",
+  "total": 3331,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26537,24 +26537,136 @@
       "group": "Entertainment",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+    },
+    {
+      "name": "Cartoon Network (United States) (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "CartoonNetwork.us@East",
+      "group": "Animation;Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "url": "https://tvnow.hostless.app/cartoon-network.m3u8"
+    },
+    {
+      "name": "Comedy Central (United States) (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "ComedyCentral.us@East",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
+      "url": "https://tvnow.hostless.app/comedy-central.m3u8"
+    },
+    {
+      "name": "Disney Junior (United States) (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "DisneyJunior.us@East",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+      "url": "https://tvnow.hostless.app/disney-junior.m3u8"
+    },
+    {
+      "name": "Maxcine 2 (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "Maxcine2.us@HD",
+      "group": "Movies",
+      "logo": "https://gia.tv/streams/pptv/209163.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8"
+    },
+    {
+      "name": "Maxcine (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "Maxcine.us@HD",
+      "group": "Movies",
+      "logo": "https://gia.tv/streams/pptv/208138.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8"
+    },
+    {
+      "name": "Maxcine Comedy (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "MaxcineComedy.us@HD",
+      "group": "Movies",
+      "logo": "https://gia.tv/streams/pptv/208730.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8"
+    },
+    {
+      "name": "Maxcine Family (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "MaxcineFamily.us@HD",
+      "group": "Movies",
+      "logo": "https://gia.tv/streams/pptv/208817.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8"
+    },
+    {
+      "name": "Maxcine Kids (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "MaxcineKids.us@HD",
+      "group": "Movies",
+      "logo": "https://gia.tv/streams/pptv/209909.png",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8"
+    },
+    {
+      "name": "Nick Jr. (United States) (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "NickJr.us@East",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/KT4tdQs.png",
+      "url": "https://tvnow.hostless.app/nick-jr.m3u8"
+    },
+    {
+      "name": "Nickelodeon (United States) (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "Nickelodeon.us@East",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "https://tvnow.hostless.app/nickelodeon.m3u8"
+    },
+    {
+      "name": "Nicktoons (United States) (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "Nicktoons.us@East",
+      "group": "Kids",
+      "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+      "url": "https://tvnow.hostless.app/nicktoons.m3u8"
+    },
+    {
+      "name": "Star Action (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "StarAction.us@SD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/XD1Tpet.png",
+      "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "country": "India",
+      "tvgId": "AssamTalks.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
+      "url": "https://cdn.pishow.tv/ott/live/258/master.m3u8"
+    },
+    {
+      "name": "Eurosport 2 UK",
+      "country": "Inggris",
+      "tvgId": "Eurosport2.fr@UK",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3317,
-    "playlistAdded": 0,
+    "playlistAdded": 14,
     "apiAdded": 0,
-    "apiEntries": 18631,
+    "apiEntries": 18689,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 70,
-    "channelsWith3Sources": 8,
-    "channelsWithAlternatives": 78,
-    "alternativeUrls": 86
+    "channelsWith2Sources": 78,
+    "channelsWith3Sources": 9,
+    "channelsWithAlternatives": 87,
+    "alternativeUrls": 96
   }
 }
