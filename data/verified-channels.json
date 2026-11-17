@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "Admin browser verification CSV; not live uptime",
-  "publishedAt": "2026-11-12T09:51:18Z",
+  "publishedAt": "2026-11-17T09:54:59Z",
   "results": {
     "https://afbtv.siar.us/live/afbtv.m3u8": {
       "status": "fail",
