@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T21:59:28Z",
-  "total": 3331,
+  "generatedAt": "2026-11-17T07:52:45Z",
+  "total": 3348,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26649,24 +26649,160 @@
       "group": "Sports",
       "logo": "https://i.imgur.com/f56dHgR.png",
       "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8"
+    },
+    {
+      "name": "A&E (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "AE.us@East",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+      "url": "https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8"
+    },
+    {
+      "name": "ABC (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "ABC.us@East",
+      "group": "General",
+      "logo": "https://i.imgur.com/pvXZ8DX.png",
+      "url": "https://cache0.wonvt.st/live/01qdodh1lghijw0ls22qa/master.m3u8"
+    },
+    {
+      "name": "Nickelodeon (United States)",
+      "country": "Amerika Serikat",
+      "tvgId": "Nickelodeon.us@East",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8"
+    },
+    {
+      "name": "Cartoon Network (Japan) HD",
+      "country": "Jepang",
+      "tvgId": "CartoonNetwork.jp@HD",
+      "group": "Animation;Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying"
+    },
+    {
+      "name": "Disney Channel (Japan)",
+      "country": "Jepang",
+      "tvgId": "DisneyChannel.jp@SD",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+      "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying"
+    },
+    {
+      "name": "Fuji TV [Not 24/7]",
+      "country": "Jepang",
+      "tvgId": "FujiTV.jp@JOCXDTV",
+      "group": "General",
+      "logo": "https://i.imgur.com/sEWDmMD.png",
+      "url": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
+    },
+    {
+      "name": "MTV (Japan)",
+      "country": "Jepang",
+      "tvgId": "MTV.jp@SD",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "url": "http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying"
+    },
+    {
+      "name": "Sakuranbo TV (1080i)",
+      "country": "Jepang",
+      "tvgId": "SakuranboTV.jp@JOCYDTV",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg",
+      "url": "https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8"
+    },
+    {
+      "name": "TV Asahi [Not 24/7]",
+      "country": "Jepang",
+      "tvgId": "TVAsahi.jp@JOEXDTV",
+      "group": "General",
+      "logo": "https://i.imgur.com/YCqB5Kj.png",
+      "url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
+    },
+    {
+      "name": "YTS Yamagata TV (1080i)",
+      "country": "Jepang",
+      "tvgId": "YTSYamagataTV.jp@JOYIDTV",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg",
+      "url": "https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8"
+    },
+    {
+      "name": "True4U (720p)",
+      "country": "Thailand",
+      "tvgId": "True4U.th@SD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/O6Xre1O.png",
+      "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8"
+    },
+    {
+      "name": "Aaj Tak (720p)",
+      "country": "India",
+      "tvgId": "AajTak.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
+      "country": "India",
+      "tvgId": "AakaashAath.in@SD",
+      "group": "Entertainment",
+      "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
+      "url": "https://cdn.pishow.tv/ott/live/969/master.m3u8"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "country": "India",
+      "tvgId": "BharatSamachar.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8"
+    },
+    {
+      "name": "BBC One (720p)",
+      "country": "Inggris",
+      "tvgId": "BBCOne.uk@London",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8"
+    },
+    {
+      "name": "BBC Two HD (720p)",
+      "country": "Inggris",
+      "tvgId": "BBCTwo.uk@HD",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
+      "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8"
+    },
+    {
+      "name": "Channel 4 (576p)",
+      "country": "Inggris",
+      "tvgId": "Channel4.uk@UK",
+      "group": "General",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3331,
-    "playlistAdded": 0,
+    "playlistAdded": 17,
     "apiAdded": 0,
-    "apiEntries": 18689,
+    "apiEntries": 18766,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 78,
+    "channelsWith2Sources": 86,
     "channelsWith3Sources": 9,
-    "channelsWithAlternatives": 87,
-    "alternativeUrls": 96
+    "channelsWithAlternatives": 95,
+    "alternativeUrls": 104
   }
 }
