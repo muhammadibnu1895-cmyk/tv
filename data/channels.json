@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T20:53:18Z",
-  "total": 3348,
+  "generatedAt": "2026-11-18T07:25:08Z",
+  "total": 3397,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -26785,24 +26785,416 @@
       "group": "General",
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
       "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8"
+    },
+    {
+      "name": "On Patrol: Live (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "OnPatrolLive.us@HD",
+      "group": "Series",
+      "logo": "https://i.imgur.com/OAThfQx.png",
+      "url": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8"
+    },
+    {
+      "name": "Reelz Famous & Infamous (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "ReelzFamousInfamous.us@HD",
+      "group": "Documentary",
+      "logo": "https://i.imgur.com/czrTtNK.png",
+      "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8"
+    },
+    {
+      "name": "Scares by Shudder (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "ScaresbyShudder.us@SD",
+      "group": "Movies",
+      "logo": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg",
+      "url": "https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8"
+    },
+    {
+      "name": "Tom Sings TV (576p)",
+      "country": "Amerika Serikat",
+      "tvgId": "TomSingsTV.us@HD",
+      "group": "Kids",
+      "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
+      "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8"
+    },
+    {
+      "name": "WeatherNation (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "WeatherNation.us@SD",
+      "group": "Weather",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
+      "url": "https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8"
+    },
+    {
+      "name": "Wine Watches & Whiskey (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "WineWatchesWhiskey.us@HD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/MN89dfS.png",
+      "url": "https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8"
+    },
+    {
+      "name": "Cartoon Network (Japan) HD",
+      "country": "Jepang",
+      "tvgId": "CartoonNetwork.jp@HD",
+      "group": "Animation;Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "url": "http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun"
+    },
+    {
+      "name": "Disney Channel (Japan)",
+      "country": "Jepang",
+      "tvgId": "DisneyChannel.jp@SD",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+      "url": "http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun"
+    },
+    {
+      "name": "MTV (Japan)",
+      "country": "Jepang",
+      "tvgId": "MTV.jp@SD",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "url": "http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun"
+    },
+    {
+      "name": "Aastha (576p)",
+      "country": "India",
+      "tvgId": "Aastha.in@SD",
+      "group": "Religious",
+      "logo": "https://i.imgur.com/IqgrV92.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/565086134?profile=pass"
+    },
+    {
+      "name": "ABP News (1080p)",
+      "country": "India",
+      "tvgId": "ABPNews.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
+      "url": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8"
+    },
+    {
+      "name": "Argus News (576p)",
+      "country": "India",
+      "tvgId": "ArgusNews.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8"
+    },
+    {
+      "name": "Bharat24 (1080p)",
+      "country": "India",
+      "tvgId": "Bharat24.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8"
+    },
+    {
+      "name": "Channel Divya (1080p)",
+      "country": "India",
+      "tvgId": "ChannelDivya.in@SD",
+      "group": "Religious",
+      "logo": "https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "country": "India",
+      "tvgId": "ColorsBangla.in@HD",
+      "group": "Entertainment",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
+      "url": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8"
+    },
+    {
+      "name": "Daily Post TV (1080p)",
+      "country": "India",
+      "tvgId": "DailyPostTV.in@SD",
+      "group": "News",
+      "logo": "https://papaji.freetvindia.com/media/Daily_post.png",
+      "url": "https://stream.ottlive.co.in/dailypost/index.m3u8"
+    },
+    {
+      "name": "DD Punjabi (576p)",
+      "country": "India",
+      "tvgId": "DDPunjabi.in@SD",
+      "group": "Culture",
+      "logo": "https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540",
+      "url": "http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass"
+    },
+    {
+      "name": "FashionTV (India) (576p)",
+      "country": "India",
+      "tvgId": "FashionTV.in@SD",
+      "group": "Lifestyle",
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "country": "India",
+      "tvgId": "Goldmines.in@SD",
+      "group": "Movies",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/863672695?profile=pass"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "country": "India",
+      "tvgId": "GoldminesBollywood.in@SD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/6mNQ9mM.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "country": "India",
+      "tvgId": "GoldminesMovies.in@SD",
+      "group": "Movies",
+      "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
+      "url": "http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass"
+    },
+    {
+      "name": "Gujarat First (1080p)",
+      "country": "India",
+      "tvgId": "GujaratFirst.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
+      "url": "https://live1.ottlive.co.in/gujaratfirst/index.m3u8"
+    },
+    {
+      "name": "Hindi Khabar (1080p)",
+      "country": "India",
+      "tvgId": "HindiKhabar.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png",
+      "url": "https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8"
+    },
+    {
+      "name": "Hosanna TV (720p)",
+      "country": "India",
+      "tvgId": "HosannaTV.in@Tamil",
+      "group": "Religious",
+      "logo": "https://i.imgur.com/VYorU1L.png",
+      "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+    },
+    {
+      "name": "K News India (576p)",
+      "country": "India",
+      "tvgId": "KNewsIndia.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
+      "url": "https://fta.ektv.in/live/100/100_0.m3u8"
+    },
+    {
+      "name": "Kanak News (576p)",
+      "country": "India",
+      "tvgId": "KanakNews.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8"
+    },
+    {
+      "name": "Khabar Fast (576p)",
+      "country": "India",
+      "tvgId": "KhabarFast.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Khabar_Fast.png",
+      "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
+      "name": "Living India News (1080p)",
+      "country": "India",
+      "tvgId": "LivingIndiaNews.in@SD",
+      "group": "News",
+      "logo": "https://i.imgur.com/YikaJvd.png",
+      "url": "https://livingindia.ottlive.co.in/livingindia/index.m3u8"
+    },
+    {
+      "name": "Manoranjan Movies (576p)",
+      "country": "India",
+      "tvgId": "ManoranjanMovies.in@SD",
+      "group": "Movies",
+      "logo": "https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540",
+      "url": "http://163.61.226.31:9981/stream/channelid/509213855?profile=pass"
+    },
+    {
+      "name": "Nandighosha TV (576p)",
+      "country": "India",
+      "tvgId": "NandighoshaTV.in@SD",
+      "group": "General",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8"
+    },
+    {
+      "name": "NDTV (1080p)",
+      "country": "India",
+      "tvgId": "NDTV.in@SD",
+      "group": "News",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png",
+      "url": "https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8"
+    },
+    {
+      "name": "News9Live (1080p)",
+      "country": "India",
+      "tvgId": "News9Live.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News9.png",
+      "url": "https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8"
+    },
+    {
+      "name": "News18 Bangla (1080p)",
+      "country": "India",
+      "tvgId": "News18Bangla.in@SD",
+      "group": "News",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png",
+      "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8"
+    },
+    {
+      "name": "News 24 (India) (720p)",
+      "country": "India",
+      "tvgId": "News24.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540",
+      "url": "https://stream.ottlive.co.in/news24/index.m3u8"
+    },
+    {
+      "name": "Nick Jr. (India) (576p)",
+      "country": "India",
+      "tvgId": "NickJr.in@SD",
+      "group": "Kids",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+      "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8"
+    },
+    {
+      "name": "Nickelodeon (India) (576p)",
+      "country": "India",
+      "tvgId": "Nickelodeon.in@SD",
+      "group": "Kids",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+      "url": "http://103.135.253.32:8080/NICK/index.m3u8"
+    },
+    {
+      "name": "Oli TV (India) (1080p)",
+      "country": "India",
+      "tvgId": "OliTV.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
+    },
+    {
+      "name": "Peace TV Bangla (1080p)",
+      "country": "India",
+      "tvgId": "PeaceTVBangla.ae@SD",
+      "group": "Religious",
+      "logo": "https://i.imgur.com/1ztVXUi.png",
+      "url": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
+    },
+    {
+      "name": "Pitaara Comedy (1080p)",
+      "country": "India",
+      "tvgId": "PitaaraComedy.in@SD",
+      "group": "Comedy",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png",
+      "url": "https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8"
+    },
+    {
+      "name": "Prag News (576p)",
+      "country": "India",
+      "tvgId": "PragNews.in@SD",
+      "group": "News",
+      "logo": "https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8"
+    },
+    {
+      "name": "Punjabi Beats HD (576p)",
+      "country": "India",
+      "tvgId": "PunjabiBeatsHD.in@HD",
+      "group": "Music",
+      "logo": "https://i.imgur.com/1Za9gNQ.jpg",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8"
+    },
+    {
+      "name": "Q TV (576p)",
+      "country": "India",
+      "tvgId": "QTV.in@SD",
+      "group": "Entertainment",
+      "logo": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/359164420?profile=pass"
+    },
+    {
+      "name": "Sanskar TV (1080p)",
+      "country": "India",
+      "tvgId": "SanskarTV.in@SD",
+      "group": "Culture;Religious",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8"
+    },
+    {
+      "name": "Satsang TV (1080p)",
+      "country": "India",
+      "tvgId": "SatsangTV.in@SD",
+      "group": "Religious",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8"
+    },
+    {
+      "name": "Sony Sports Ten 3 Hindi (1080p)",
+      "country": "India",
+      "tvgId": "SonySportsTen3Hindi.in@SD",
+      "group": "Sports",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
+    },
+    {
+      "name": "Sony Yay! (1080p)",
+      "country": "India",
+      "tvgId": "SonyYay.in@SD",
+      "group": "Animation;Kids",
+      "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
+      "url": "https://r2.amml.in/sony-yay/live.m3u8"
+    },
+    {
+      "name": "Unique TV (576p)",
+      "country": "India",
+      "tvgId": "UniqueTV.in@SD",
+      "group": "Entertainment;Kids",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
+      "url": "http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass"
+    },
+    {
+      "name": "Zee Bangla Sonar (576p)",
+      "country": "India",
+      "tvgId": "ZeeBanglaSonar.in@SD",
+      "group": "Entertainment",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
+      "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
+    },
+    {
+      "name": "Eurosport 1 UK (720p)",
+      "country": "Inggris",
+      "tvgId": "Eurosport1.fr@UK",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3348,
-    "playlistAdded": 0,
+    "playlistAdded": 49,
     "apiAdded": 0,
-    "apiEntries": 18766,
+    "apiEntries": 18765,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 86,
-    "channelsWith3Sources": 9,
-    "channelsWithAlternatives": 95,
-    "alternativeUrls": 104
+    "channelsWith2Sources": 128,
+    "channelsWith3Sources": 11,
+    "channelsWithAlternatives": 139,
+    "alternativeUrls": 150
   }
 }
