@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T20:14:40Z",
-  "total": 3555,
+  "generatedAt": "2026-11-21T07:04:15Z",
+  "total": 3580,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -28441,24 +28441,224 @@
       "group": "Auto;Entertainment",
       "logo": "https://i.imgur.com/S6Su6QH.png",
       "url": "https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8"
+    },
+    {
+      "name": "Apna Punjab TV (India) (576p)",
+      "country": "India",
+      "tvgId": "ApnaPunjabTV.in@SD",
+      "group": "General",
+      "logo": "https://www.apnapunjab.tv/images/logo.png",
+      "url": "https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "name": "C-10 (576p)",
+      "country": "India",
+      "tvgId": "C10.in@SD",
+      "group": "News",
+      "logo": "https://papaji.freetvindia.com/media/channels/C-10.png",
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "name": "HNN 24x7 (576p)",
+      "country": "India",
+      "tvgId": "HNN24x7.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/HNN24x7.png",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8"
+    },
+    {
+      "name": "Sony SAB HD (1080p)",
+      "country": "India",
+      "tvgId": "SonySAB.in@HD",
+      "group": "Entertainment",
+      "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+      "url": "http://116.90.120.149:8000/play/a128/index.m3u8"
+    },
+    {
+      "name": "Sony Sports Ten 1 (576p)",
+      "country": "India",
+      "tvgId": "SonySportsTen1.in@SD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a126/index.m3u8"
+    },
+    {
+      "name": "Sony Sports Ten 1 HD (1080p)",
+      "country": "India",
+      "tvgId": "SonySportsTen1.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a11t/index.m3u8"
+    },
+    {
+      "name": "Sony Sports Ten 2 HD (1080p)",
+      "country": "India",
+      "tvgId": "SonySportsTen2.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a137/index.m3u8"
+    },
+    {
+      "name": "Sony Sports Ten 5 (576p)",
+      "country": "India",
+      "tvgId": "SonySportsTen5.in@SD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a117/index.m3u8"
+    },
+    {
+      "name": "Star Gold 2 (576p)",
+      "country": "India",
+      "tvgId": "StarGold2.in@SD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/G0ZfzZr.png",
+      "url": "http://116.90.120.149:8000/play/a12b/index.m3u8"
+    },
+    {
+      "name": "Star Gold HD (1080p)",
+      "country": "India",
+      "tvgId": "StarGold.in@HD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/xC460sj.png",
+      "url": "http://116.90.120.149:8000/play/a12a/index.m3u8"
+    },
+    {
+      "name": "Star Gold Romance (576p)",
+      "country": "India",
+      "tvgId": "StarGoldRomance.in@SD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/gSWv9U3.png",
+      "url": "http://116.90.120.149:8000/play/a12c/index.m3u8"
+    },
+    {
+      "name": "Star Gold Select HD (1080p)",
+      "country": "India",
+      "tvgId": "StarGoldSelect.in@HD",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/U7eiuqv.png",
+      "url": "http://116.90.120.149:8000/play/a131/index.m3u8"
+    },
+    {
+      "name": "Star Movies (India) HD (1080p)",
+      "country": "India",
+      "tvgId": "StarMovies.in@HD",
+      "group": "Movies",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a13a/index.m3u8"
+    },
+    {
+      "name": "Star Movies Select HD (1080p)",
+      "country": "India",
+      "tvgId": "StarMoviesSelect.in@HD",
+      "group": "Movies",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a139/index.m3u8"
+    },
+    {
+      "name": "Star Sports 1 HD (1080p)",
+      "country": "India",
+      "tvgId": "StarSports1.in@HD",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/E5jjKHI.png",
+      "url": "http://116.90.120.149:8000/play/a11x/index.m3u8"
+    },
+    {
+      "name": "Star Sports 1 Hindi HD (1080p)",
+      "country": "India",
+      "tvgId": "StarSports1Hindi.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a122/index.m3u8"
+    },
+    {
+      "name": "Star Sports 2 HD (1080p)",
+      "country": "India",
+      "tvgId": "StarSports2.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a120/index.m3u8"
+    },
+    {
+      "name": "TLC (India) HD (1080p)",
+      "country": "India",
+      "tvgId": "TLC.in@HD",
+      "group": "Lifestyle",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
+      "url": "http://116.90.120.149:8000/play/a11g/index.m3u8"
+    },
+    {
+      "name": "Unite8 Sports 1 (576p)",
+      "country": "India",
+      "tvgId": "Unite8Sports1.in@SD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
+      "url": "http://116.90.120.149:8000/play/a11l/index.m3u8"
+    },
+    {
+      "name": "Unite8 Sports 1 HD (1080p)",
+      "country": "India",
+      "tvgId": "Unite8Sports1.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
+      "url": "http://116.90.120.149:8000/play/a125/index.m3u8"
+    },
+    {
+      "name": "Unite8 Sports 2 HD (1080p)",
+      "country": "India",
+      "tvgId": "Unite8Sports2.in@HD",
+      "group": "Sports",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+      "url": "http://116.90.120.149:8000/play/a129/index.m3u8"
+    },
+    {
+      "name": "Zee Classic (576p)",
+      "country": "India",
+      "tvgId": "ZeeClassic.in@SD",
+      "group": "Classic",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
+      "url": "http://116.90.120.149:8000/play/a121/index.m3u8"
+    },
+    {
+      "name": "Zee Power HD (1080p)",
+      "country": "India",
+      "tvgId": "ZeePower.in@HD",
+      "group": "Entertainment",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540",
+      "url": "http://116.90.120.149:8000/play/a11p/index.m3u8"
+    },
+    {
+      "name": "Zee Talkies HD (1080p)",
+      "country": "India",
+      "tvgId": "ZeeTalkies.in@HD",
+      "group": "Movies",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+      "url": "http://116.90.120.149:8000/play/a116/index.m3u8"
+    },
+    {
+      "name": "Zee Thirai HD (1080p)",
+      "country": "India",
+      "tvgId": "ZeeThirai.in@HD",
+      "group": "Movies",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
+      "url": "http://116.90.120.149:8000/play/a11q/index.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3555,
-    "playlistAdded": 0,
+    "playlistAdded": 25,
     "apiAdded": 0,
-    "apiEntries": 19335,
+    "apiEntries": 19420,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 2,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 194,
+    "channelsWith2Sources": 197,
     "channelsWith3Sources": 12,
-    "channelsWithAlternatives": 206,
-    "alternativeUrls": 218
+    "channelsWithAlternatives": 209,
+    "alternativeUrls": 221
   }
 }
