@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T22:25:00Z",
-  "total": 3633,
+  "generatedAt": "2026-11-25T08:29:38Z",
+  "total": 3652,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -29065,15 +29065,167 @@
       "group": "Entertainment",
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
       "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8"
+    },
+    {
+      "name": "New TM (1080p)",
+      "country": "Thailand",
+      "tvgId": "NewTM.th@SD",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/BYEtAN5.png",
+      "url": "https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8"
+    },
+    {
+      "name": "CCTV Kunnamkulam (720p)",
+      "country": "India",
+      "tvgId": "CCTVKunnamkulam.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+      "url": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8"
+    },
+    {
+      "name": "City Channel HD (1080p)",
+      "country": "India",
+      "tvgId": "CityChannelHD.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+      "url": "https://live.skystream.in/live/citytv2924/index.m3u8"
+    },
+    {
+      "name": "City Vision Kannur (576p)",
+      "country": "India",
+      "tvgId": "CityVisionKannur.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
+      "url": "https://live.skystream.in/live/citykannurcity/index.m3u8"
+    },
+    {
+      "name": "Drishya TV (576p)",
+      "country": "India",
+      "tvgId": "DrishyaTV.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "url": "https://live.skystream.in/live/drishya5060/index.m3u8"
+    },
+    {
+      "name": "Drisya TV (576p)",
+      "country": "India",
+      "tvgId": "DrisyaTV.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+      "url": "https://live.skystream.in/live/drishyakarunagapally/index.m3u8"
+    },
+    {
+      "name": "Kasargod Vision (576p)",
+      "country": "India",
+      "tvgId": "KasargodVision.in@SD",
+      "group": "Entertainment",
+      "logo": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+      "url": "https://live.skystream.in/live/kasaragodvsn/index.m3u8"
+    },
+    {
+      "name": "KCN Kasargod (576p)",
+      "country": "India",
+      "tvgId": "KCNKasargod.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+      "url": "https://live.skystream.in/live/kcnksrgod/index.m3u8"
+    },
+    {
+      "name": "Kerala Today TV (1080p)",
+      "country": "India",
+      "tvgId": "KeralaTodayTV.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+      "url": "https://live.skystream.in/live/krlatoday/index.m3u8"
+    },
+    {
+      "name": "Malabar Plus (720p)",
+      "country": "India",
+      "tvgId": "MalabarPlus.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/p6kf0FfH/1000151556.png",
+      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8"
+    },
+    {
+      "name": "Malappuram Cable Vision (1080p)",
+      "country": "India",
+      "tvgId": "MalappuramCableVision.in@SD",
+      "group": "Entertainment",
+      "logo": "https://cdn.aptoide.com/imgs/f/c/d/fcdcdfe7f3ced7623f252e9ea0080374_icon.png",
+      "url": "http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8"
+    },
+    {
+      "name": "New Vision HD (576p)",
+      "country": "India",
+      "tvgId": "NewVisionHD.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+      "url": "https://live.skystream.in/live/newvision2924/index.m3u8"
+    },
+    {
+      "name": "NM Media Channel HD (1080p)",
+      "country": "India",
+      "tvgId": "NMMediaChannelHD.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+      "url": "https://live.skystream.in/live/newmedia2924/index.m3u8"
+    },
+    {
+      "name": "Periyar Vision (1080p)",
+      "country": "India",
+      "tvgId": "PeriyarVision.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+      "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8"
+    },
+    {
+      "name": "South Vision (1080p)",
+      "country": "India",
+      "tvgId": "SouthVision.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+      "url": "https://live.skystream.in/live/southvsnklm/index.m3u8"
+    },
+    {
+      "name": "Thanima (1080p)",
+      "country": "India",
+      "tvgId": "Thanima.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8"
+    },
+    {
+      "name": "UTV HD 24x7 (1080i)",
+      "country": "India",
+      "tvgId": "UTVHD24x7.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8"
+    },
+    {
+      "name": "Wayanad Vision Movies (720p)",
+      "country": "India",
+      "tvgId": "WayanadVisionMovies.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+      "url": "https://online.wayanadvision.in/hls/wvmovies.m3u8"
+    },
+    {
+      "name": "Wayanad Vision Plus (720p)",
+      "country": "India",
+      "tvgId": "WayanadVisionPlus.in@SD",
+      "group": "Entertainment",
+      "logo": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+      "url": "https://online.wayanadvision.in/hls/streaming1.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3633,
-    "playlistAdded": 0,
+    "playlistAdded": 19,
     "apiAdded": 0,
-    "apiEntries": 19263,
+    "apiEntries": 19293,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
