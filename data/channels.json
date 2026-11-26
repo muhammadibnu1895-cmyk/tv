@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T21:40:02Z",
-  "total": 3652,
+  "generatedAt": "2026-11-26T08:14:26Z",
+  "total": 3671,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -29217,15 +29217,167 @@
       "group": "Entertainment",
       "logo": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
       "url": "https://online.wayanadvision.in/hls/streaming1.m3u8"
+    },
+    {
+      "name": "Nickelodeon Asia Indonesia (720p)",
+      "country": "Indonesia",
+      "tvgId": "NickelodeonAsia.sg@Indonesia",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "http://103.165.207.108:8000/play/a00v/index.m3u8"
+    },
+    {
+      "name": "Cartoon Network Asia Thailand",
+      "country": "Thailand",
+      "tvgId": "CartoonNetworkAsia.sg@Thailand",
+      "group": "Animation;Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "url": "http://103.148.210.190:8000/play/a14r"
+    },
+    {
+      "name": "ABC News (India) (1080p)",
+      "country": "India",
+      "tvgId": "ABCNews.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+      "url": "https://stream.ottlive.co.in/abcnews/index.m3u8"
+    },
+    {
+      "name": "B4U Music (1080p)",
+      "country": "India",
+      "tvgId": "B4UMusic.in@India",
+      "group": "Music",
+      "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+      "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8"
+    },
+    {
+      "name": "CC NET (1080p)",
+      "country": "India",
+      "tvgId": "CCNET.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "url": "https://live.skystream.in/live/ccnet7082/index.m3u8"
+    },
+    {
+      "name": "Drisya News Pala (576p)",
+      "country": "India",
+      "tvgId": "DrisyaNewsPala.in@SD",
+      "group": "Entertainment",
+      "logo": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+      "url": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8"
+    },
+    {
+      "name": "IN 24 News (1080p)",
+      "country": "India",
+      "tvgId": "IN24News.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+      "url": "https://stream.ottlive.co.in/in24news/index.m3u8"
+    },
+    {
+      "name": "K7 Keralam Channel (1080p)",
+      "country": "India",
+      "tvgId": "K7KeralamChannel.in@SD",
+      "group": "Entertainment",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "url": "https://live.skystream.in/live/keralam2742/index.m3u8"
+    },
+    {
+      "name": "Karnataka News Beat (1080p)",
+      "country": "India",
+      "tvgId": "KarnatakaNewsBeat.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
+      "url": "https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8"
+    },
+    {
+      "name": "Lokmat Bharat (1080p)",
+      "country": "India",
+      "tvgId": "LokmatBharat.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+      "url": "https://stream.ottlive.co.in/lokmatbharat/index.m3u8"
+    },
+    {
+      "name": "NE Bharat24 (1080p)",
+      "country": "India",
+      "tvgId": "NEBharat24.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+      "url": "https://stream.ottlive.co.in/nebharat24/index.m3u8"
+    },
+    {
+      "name": "News 21 (1080p)",
+      "country": "India",
+      "tvgId": "News21.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+      "url": "https://stream.ottlive.co.in/news21/index.m3u8"
+    },
+    {
+      "name": "Pulse 24 (1080p)",
+      "country": "India",
+      "tvgId": "Pulse24.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+      "url": "https://stream.ottlive.co.in/pulse24news/index.m3u8"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "country": "India",
+      "tvgId": "SonyMax.in@HD",
+      "group": "Movies",
+      "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "url": "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "name": "Sristi TV (1080p)",
+      "country": "India",
+      "tvgId": "SristiTV.in@SD",
+      "group": "Undefined",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+      "url": "https://stream.ottlive.co.in/sristitv/index.m3u8"
+    },
+    {
+      "name": "Tara TV (720p)",
+      "country": "India",
+      "tvgId": "TaraTV.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+      "url": "https://stream.ottlive.co.in/taratv/index.m3u8"
+    },
+    {
+      "name": "Vande Bharat News (1080p)",
+      "country": "India",
+      "tvgId": "VandeBharatNews.in@SD",
+      "group": "News",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+      "url": "https://stream.ottlive.co.in/vandebharatnews/index.m3u8"
+    },
+    {
+      "name": "Nick Jr Club [Geo-blocked]",
+      "country": "Australia",
+      "tvgId": "NickJrClub.au@AU",
+      "group": "Kids",
+      "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+      "url": "https://i.mjh.nz/.r/10-nick-jr.m3u8"
+    },
+    {
+      "name": "NickToons [Geo-blocked]",
+      "country": "Australia",
+      "tvgId": "NickToons.au@AU",
+      "group": "Kids",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1920px-Nicktoons_Logo_2023.svg.png",
+      "url": "https://i.mjh.nz/.r/10-nicktoons.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3652,
-    "playlistAdded": 0,
+    "playlistAdded": 19,
     "apiAdded": 0,
-    "apiEntries": 19293,
+    "apiEntries": 19300,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
@@ -29233,8 +29385,8 @@
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
     "channelsWith2Sources": 231,
-    "channelsWith3Sources": 12,
-    "channelsWithAlternatives": 243,
-    "alternativeUrls": 255
+    "channelsWith3Sources": 14,
+    "channelsWithAlternatives": 245,
+    "alternativeUrls": 259
   }
 }
