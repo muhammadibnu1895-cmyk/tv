@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:26:41Z",
+  "generatedAt": "2026-11-27T21:15:31Z",
   "total": 3708,
   "channels": [
     {
@@ -29670,8 +29670,8 @@
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
-    "preserved": 3671,
-    "playlistAdded": 37,
+    "preserved": 3708,
+    "playlistAdded": 0,
     "apiAdded": 0,
     "apiEntries": 19377,
     "gistEntries": 229,
