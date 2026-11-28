@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T21:15:31Z",
-  "total": 3708,
+  "generatedAt": "2026-11-28T07:44:42Z",
+  "total": 3715,
   "channels": [
     {
       "name": "AFBTV Kupang (1080p) [Not 24/7]",
@@ -29665,24 +29665,80 @@
       "group": "Entertainment",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
       "url": "http://103.16.24.4:8083/10.m3u8"
+    },
+    {
+      "name": "Curiosity NOW EN (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "CuriosityNOW.de@EN",
+      "group": "Documentary",
+      "logo": "https://i.imgur.com/gJ9eMaG.png",
+      "url": "https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8"
+    },
+    {
+      "name": "FINTECH.TV (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "FINTECHTV.us@HD",
+      "group": "Business",
+      "logo": "https://i.imgur.com/r4gzSAM.png",
+      "url": "https://ftv247iovescdn1.fintech.tv/hls/main.m3u8"
+    },
+    {
+      "name": "Humor Mill (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "HumorMill.us@SD",
+      "group": "Comedy",
+      "logo": "https://i.imgur.com/e5W91v2.png",
+      "url": "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
+    },
+    {
+      "name": "Real Life Network (1080p)",
+      "country": "Amerika Serikat",
+      "tvgId": "RealLifeNetwork.us@HD",
+      "group": "Religious",
+      "logo": "https://i.imgur.com/spffjYg.png",
+      "url": "https://300abc84139140e9b7942f8bfa6edc1a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1170-REALLIFENETWORK-FREECAST/mt/freecast/1170/hls/master/playlist.m3u8"
+    },
+    {
+      "name": "Reelz (720p)",
+      "country": "Amerika Serikat",
+      "tvgId": "Reelz.us@SD",
+      "group": "Documentary",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+      "url": "https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8"
+    },
+    {
+      "name": "Om Shanti",
+      "country": "India",
+      "tvgId": "OmShanti.in@SD",
+      "group": "Religious",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
+      "url": "https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8"
+    },
+    {
+      "name": "Republic Business (576p) [Geo-blocked]",
+      "country": "India",
+      "tvgId": "RepublicBusiness.in@SD",
+      "group": "Business",
+      "logo": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "url": "https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8"
     }
   ],
   "sourceErrors": [],
   "discovery": {
     "maxSourcesPerChannel": 3,
     "preserved": 3708,
-    "playlistAdded": 0,
+    "playlistAdded": 7,
     "apiAdded": 0,
-    "apiEntries": 19377,
+    "apiEntries": 19398,
     "gistEntries": 229,
     "gistAlternativesAdded": 0,
     "gistNewAdded": 0,
     "gistAmbiguousSkipped": 6,
     "skippedByLimit": 3,
     "skippedCustomHeaders": 0,
-    "channelsWith2Sources": 247,
+    "channelsWith2Sources": 250,
     "channelsWith3Sources": 17,
-    "channelsWithAlternatives": 264,
-    "alternativeUrls": 281
+    "channelsWithAlternatives": 267,
+    "alternativeUrls": 284
   }
 }
